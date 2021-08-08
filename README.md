@@ -1,5 +1,5 @@
 # Backend Project Templates
-    - Contains templates for several different backend frameworks.
+    - Ready to  use  project templates for backend development. Frameworks: FastAPI, Flutter
 
 # Pattern
     - Uses the DDD Repository Pattern where possible
